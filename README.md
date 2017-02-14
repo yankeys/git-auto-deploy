@@ -1,3 +1,5 @@
+This project comes from [olipo186](https://github.com/olipo186/Git-Auto-Deploy)
+
 [![Build Status](https://travis-ci.org/olipo186/Git-Auto-Deploy.svg?branch=master)](https://travis-ci.org/olipo186/Git-Auto-Deploy)
 # What is it?
 
